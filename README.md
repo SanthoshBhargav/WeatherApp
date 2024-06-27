@@ -33,15 +33,18 @@ Clone the repository:
   Enter a city name in the search bar to get the weather data.
 
 **Technologies Used**
+
   React.js: Front-end library for building the user interface.
   Axios: For making HTTP requests to the weather API.
   OpenWeatherMap API: For fetching weather data.
   CSS: For styling the application.
-  
+
 **API Reference**
+
   This application uses the OpenWeatherMap API to fetch weather data. You need to sign up and get an API key to use this service.
 
 **Contributing**
+
   Contributions are welcome! Please fork this repository and submit a pull request for any changes you'd like to make.
 
     Fork the repository
@@ -51,6 +54,7 @@ Clone the repository:
     Create a new Pull Request
     
 **Contact**
+
   If you have any questions or suggestions, feel free to reach out:
 
 GitHub: SanthoshBhargv
