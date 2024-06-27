@@ -9,9 +9,11 @@ Responsive design for mobile and desktop.
 Search functionality for different cities.
 
 **DEMO**
+
 Check out the live demo: https://santhoshbhargav.github.io/WeatherApp/
 
 **Installation:**
+
 Clone the repository:
     git clone https://github.com/SanthoshBhargav/WeatherApp.git
     cd my-weather-app
